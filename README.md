@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Aehsan Khan
-- 👀 I’m interested in Getting the world of its "needless suffering".
+- 👀 I’m interested in Getting the world rid of its "needless suffering".
 - 🌱 I’m currently learning Harvard CS50
 - 💞️ I’m looking for full-stack developers who would enjoy being a CTO at www.opnwork.com 
 - 📫 How to reach me aehsan4004@gmail.com
