@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aehsan Khan
-- 👀 I’m interested in Getting the world rid of its "needless suffering".
-- 🌱 I’m currently learning Harvard CS50
-- 💞️ I’m looking for full-stack developers who would enjoy being a CTO at www.opnwork.com 
+- 👀 I’m interested to help SMB's around the world digitize & de-risk their entire operations.
+- 🌱 I’m currently learning to build digital products.
+- 💞️ I’m looking for full-stack developers who would enjoy builing tools for SMB's at www.opnwork.com 
 - 📫 How to reach me aehsan4004@gmail.com
 
 <!---
